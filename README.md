@@ -17,5 +17,12 @@ c(Do) 0.oktav degeri 16.35
 
 
 note.m sinüs sinyali olusturuyor
+
+
+
 notalar.png notalarýn resimlerini gösteriyor
+
+
+
+
 notalar.txt notalarýn ölçülerini gösteriyor
