@@ -15,6 +15,7 @@ c(Do) 0.oktav degeri 16.35
 
  2 katıdır
 
+Digerlerinde de benzer iliski vardır
 
 note.m sinüs sinyali olusturuyor
 
