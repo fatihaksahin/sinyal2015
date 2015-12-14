@@ -1,5 +1,6 @@
 function [c]=frek(nota,m)
-
+%fonksiyon tanýmladýk ve girlicek argumanlarý belirledik.Üstte girdigimiz
+%notaya gore altta d degiskeni deger alýyor ve formul hesaplanýyor
 switch nota  %notaya karsilik gelen degeri aliyor.Örnegin do 1.sirada 1 degerini aliyor.C# 2.sirada 2 degerini aliyor
     case {'Do'}
         d=1;
