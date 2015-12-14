@@ -10,10 +10,10 @@ sayfa 30
 
 
 tabloda 
-c(Do) 0.oktav degeri 16.35     2 katýdýr
+c(Do) 0.oktav degeri 16.35    
       1.oktav degeri 32.70 
 
-
+ 2 katýdýr
 
 
 note.m sinüs sinyali olusturuyor
