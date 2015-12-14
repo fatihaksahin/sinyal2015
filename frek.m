@@ -1,6 +1,6 @@
 function [c]=frek(nota,m)
 
-switch nota  %notaya karþýlýk gelen degeri alýyor.Örneðin do 1.sýrda 1 degerini alýyor.C# 2.sýrada 2 deðerini alýyor
+switch nota  %notaya karsilik gelen degeri aliyor.Örnegin do 1.sirada 1 degerini aliyor.C# 2.sirada 2 degerini aliyor
     case {'Do'}
         d=1;
         case {'C#'}
