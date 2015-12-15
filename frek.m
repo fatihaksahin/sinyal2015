@@ -29,5 +29,6 @@ switch nota  %notaya karsilik gelen degeri aliyor.Örnegin do 1.sirada 1 degerini
     
 end
 c=(440)*2^((m-4)+(d-10)/12);
+%la notasýnýn frekansýný temel aldým
 %http://www.darussafaka.k12.tr/wp-content/uploads/2014/04/PROJE-24-MATEMAT%C4%B0%C4%9E%C4%B0N-MELOD%C4%B0S%C4%B0-FMV-I%C5%9EIK-AYAZA%C4%9EA-II.pdf
 %formulu burdan buldum sayfa 30
