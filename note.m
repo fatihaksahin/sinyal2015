@@ -5,7 +5,7 @@ t = 0:1/fs:vurus; %0 dan dur a kadar 1/(100*ff) kadar artýyor
 %plot(tt,xx)
 %grafigi cizdirmek icin ustteki kodu command window'a yazariz
 
-    elemanS = length(tt); %% Eleman sayýsý
+    elemanS = length(t); %% Eleman sayýsý
     
     attack = linspace(0,1.5,(elemanS*2/8));
     
