@@ -12,7 +12,7 @@ formulu La notasini temel alarak yaptým
 
 
 
-note.m sinüs sinyalinin grafigini cizdiriyor
+note.m sinüs sinyalinin grafigini cizdiriyor.Olusturulan sinüs sinyalinin attack süresi,decay süresi,sustain süresini gösteriyor
 
 
 
