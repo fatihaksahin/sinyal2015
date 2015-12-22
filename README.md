@@ -21,7 +21,7 @@ notalar.png notalarýn resimlerini gösteriyor
 
 
 
-notalar.txt notalarýn ölçülerini gösteriyor
+notalar.txt notalarýn isimlerini,ölçülerini,oktavlarýný içeriyor
 
 
 
