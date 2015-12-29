@@ -13,5 +13,5 @@ B=linspace(1.5,1,a/8);%vektor
 C=linspace(1,1,a/2);%vektor
 D=linspace(1,0,a/8);%vektor
  zarf=[A B C D];%vektorlerý diziye attýk
- x=x*.zarf;%xle zarf dizisindeki elemanlarla carptik
+ x=x.*zarf;%xle zarf dizisindeki elemanlarla carptik
  
