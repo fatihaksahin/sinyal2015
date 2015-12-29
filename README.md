@@ -30,3 +30,7 @@ toplam 12 nota oldugu icin 12 ye boluyoruz.4 oktavdaki la notasýný referans aldý
 d kacýncý sýradaki nota oldugu
 m oktav
 Referans olarak 440 Hz'deki 4. oktavdan La notasýný kullanýrsak, diðerlerini 1'den 12'ye kadar (C'den B'ye kadar) hesaplayabiliriz
+
+
+
+sentez.m dosyasýnda harmonik ve echo ekliyorum.Normalizasyon yapýyoruz.notalar.txt den nota bilgilerini cekiyoruz
